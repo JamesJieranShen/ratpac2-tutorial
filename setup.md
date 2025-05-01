@@ -27,7 +27,7 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::: spoiler
+:::::::::::::::: spoiler
 
 ### Windows
 
@@ -35,7 +35,7 @@ Use PuTTY
 
 ::::::::::::::::::::::::
 
-::::::::::: spoiler
+:::::::::::::::: spoiler
 
 ### MacOS
 
