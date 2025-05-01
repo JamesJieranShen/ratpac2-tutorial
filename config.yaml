@@ -67,6 +67,7 @@ contact: 'ratpac2-coord@lbl.gov'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- episode-2.md
 
 # Information for Learners
 learners: 
